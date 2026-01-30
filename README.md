@@ -13,10 +13,14 @@ React.js
 HTML5
 CSS3
 JavaScript
+
+
 Backend
 
 Node.js
 Express.js
+
+
 Database
 
 MongoDB
@@ -27,8 +31,14 @@ Secure data storage using MongoDB
 RESTful API integration
 Responsive front-end UI
 Separate client and server structure
+
+
 📂 Project Structure
-Fitness-Tracking-Web-App/ │ ├── server/ # Backend (Node.js + Express) ├── client/ # Frontend (React) ├── package.json └── README.md
+Fitness-Tracking-Web-App/
+│ ├── server/ # Backend (Node.js + Express) 
+├── client/ # Frontend (React) 
+├── package.json 
+└── README.md
 
 ⚙️ Backend Setup
 Open a new terminal and run the following commands:
